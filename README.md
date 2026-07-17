@@ -14,6 +14,8 @@
 
 - 📍 Location: **Argentina 🧉**
 - 🎓 Current role: **Full Stack Developer**
+- 🟢 Status: **Open to new opportunities**
+- 🤝 How I work: **I enjoy teamwork, clear communication, and writing code people can actually maintain**
 - 💬 Ask me about: **New technologies, computers and programming**
 - ⚡ Random fact about me: **I got interested in programming at 13, but only started taking it seriously at 18**
 - 🎮 Outside of code I enjoy: **Playing video games, going to the gym, or spending time with my girlfriend 💞**
@@ -56,6 +58,13 @@
 
 ---
 
+### 🚀 Featured Projects
+
+- **[SPA Family Guy AI Chat](https://github.com/ciro-castellaro/ProyectoM3_Ciro-Castellaro)** — Chat with Family Guy characters, powered by Google's Gemini API
+- **[NOVA - Personal AI Assistant](https://github.com/ciro-castellaro/IA-Personal-NOVA)** — Local AI model that powers your projects
+
+---
+
 ### 📊 Stats
 
 <div align="center">
@@ -72,7 +81,7 @@
 
 <div align="center">
 
-<a href="https://discord.com/users/TU_ID_DISCORD"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ciro-castellaro-46801a387"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
