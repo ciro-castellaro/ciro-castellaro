@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9D%90%87%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%9A%2C+%F0%9D%90%AC%F0%9D%90%A8%F0%9D%90%B2+%F0%9D%90%82%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%A8+%F0%9D%90%82%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9D%90%87%F0%9D%90%A2%2C+%F0%9D%90%88'%F0%9D%90%A6+%F0%9D%90%82%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%A8+%F0%9D%90%82%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%A8" alt="Typing SVG" />
 
 <!-- Gif -->
 <img src="./assets/dog.gif" width="300" alt="gif" />
@@ -10,15 +10,15 @@
 
 ---
 
-### 🧑 Sobre mí
+### 🧑 About Me
 
-- 📍 Ubicación: **Argentina 🧉**
-- 🎓 Rol actual: **Full Stack Developer**
-- 💬 Preguntame sobre: **Tecnologias nuevas, Computadoras y programacion**
-- ⚡ Dato random sobre mí: **Me interese por la programacion a los 13, pero recien a los 18 empece a hacerlo en serio**
-- 🎮 Fuera del código me gusta: **Jugar videojuegos, el Gym o estar con mi novia 💞**
-- 🎯 Objetivo 2026: **Aprender, hacer networking y ser buen programador**
-- 📫 Cómo contactarme: **cirocastellaro@gmail.com**
+- 📍 Location: **Argentina 🧉**
+- 🎓 Current role: **Full Stack Developer**
+- 💬 Ask me about: **New technologies, computers and programming**
+- ⚡ Random fact about me: **I got interested in programming at 13, but only started taking it seriously at 18**
+- 🎮 Outside of code I enjoy: **Playing video games, going to the gym, or spending time with my girlfriend 💞**
+- 🎯 2026 goal: **Learn, network, and become a better programmer**
+- 📫 How to reach me: **cirocastellaro@gmail.com**
 
 ---
 
@@ -68,7 +68,7 @@
 
 ---
 
-### 🌐 Redes
+### 🌐 Socials
 
 <div align="center">
 
