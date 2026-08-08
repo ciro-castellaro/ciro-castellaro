@@ -16,8 +16,6 @@
 - 🎓 Current role: **Full Stack Developer**
 - 🟢 Status: **Open to new opportunities**
 - 🤝 How I work: **I enjoy teamwork, clear communication, and writing code people can actually maintain**
-- 💬 Ask me about: **New technologies, computers and programming**
-- ⚡ Random fact about me: **I got interested in programming at 13, but only started taking it seriously at 18**
 - 🎮 Outside of code I enjoy: **Playing video games, going to the gym, or spending time with my girlfriend 💞**
 - 🎯 2026 goal: **Learn, network, and become a better programmer**
 - 📫 How to reach me: **cirocastellaro@gmail.com**
@@ -70,8 +68,6 @@
 <div align="center">
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ciro-castellaro&show_icons=true&theme=radical" alt="GitHub stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ciro-castellaro&theme=radical" alt="GitHub streak" />
 
 </div>
 
