@@ -58,7 +58,7 @@
 
 - **[SPA Family Guy AI Chat](https://github.com/ciro-castellaro/ProyectoM3_Ciro-Castellaro)** — Chat with Family Guy characters, powered by Google's Gemini API
 - **[NOVA - Personal AI Assistant](https://github.com/ciro-castellaro/IA-Personal-NOVA)** — Local AI model that powers your projects
-- **[Github MCP Server](https://github.com/ciro-castellaro/ProyectoM5-Ciro_Castellaro)** - MCP Server for Github Actions
+- **[Github MCP Server](https://github.com/ciro-castellaro/ProyectoM5-Ciro_Castellaro)** — MCP Server for Github Actions
 ---
 
 ### 📊 Stats
