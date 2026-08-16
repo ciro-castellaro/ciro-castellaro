@@ -14,6 +14,7 @@
 
 - 📍 Location: **Argentina 🧉**
 - 🎓 Current role: **Full Stack Developer**
+- 💂 English level: **B2, Cambridge University Certificate**
 - 🟢 Status: **Open to new opportunities**
 - 🤝 How I work: **I enjoy teamwork, clear communication, and writing code people can actually maintain**
 - 🎮 Outside of code I enjoy: **Playing video games, going to the gym, or spending time with my girlfriend 💞**
@@ -43,8 +44,6 @@
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code></td>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code></td>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="npm" title="npm"/></code></td>
 		</tr>
 		<tr>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code></td>
@@ -59,7 +58,7 @@
 
 - **[SPA Family Guy AI Chat](https://github.com/ciro-castellaro/ProyectoM3_Ciro-Castellaro)** — Chat with Family Guy characters, powered by Google's Gemini API
 - **[NOVA - Personal AI Assistant](https://github.com/ciro-castellaro/IA-Personal-NOVA)** — Local AI model that powers your projects
-
+- **[Github MCP Server](https://github.com/ciro-castellaro/ProyectoM5_Ciro-Castellaro)** - MCP Server for Github Actions
 ---
 
 ### 📊 Stats
