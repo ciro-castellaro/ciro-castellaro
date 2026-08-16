@@ -13,7 +13,7 @@
 ### 🧑 About Me
 
 - 📍 Location: **Argentina 🧉**
-- 🎓 Current role: **Full Stack Developer**
+- 🎓 Current role: **Full Stack Developer** (Backend focused)
 - 💂 English level: **B2, Cambridge University Certificate**
 - 🟢 Status: **Open to new opportunities**
 - 🤝 How I work: **I enjoy teamwork, clear communication, and writing code people can actually maintain**
