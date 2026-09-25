@@ -17,8 +17,6 @@
 - 💂 English level: **B2, Cambridge University Certificate**
 - 🟢 Status: **Open to new opportunities**
 - 🤝 How I work: **I enjoy teamwork, clear communication, and writing code people can actually maintain**
-- 🎮 Outside of code I enjoy: **Playing video games, going to the gym, or spending time with my girlfriend 💞**
-- 🎯 2026 goal: **Learn, network, and become a better programmer**
 - 📫 How to reach me: **cirocastellaro@gmail.com**
 
 ---
@@ -45,13 +43,5 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ciro-castellaro-46801a387"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-✨ _[𝐖𝐄 𝐀𝐑𝐄 𝐄𝐓𝐄𝐑𝐍𝐀𝐋, 𝐀𝐋𝐋 𝐓𝐇𝐈𝐒 𝐏𝐀𝐈𝐍 𝐈𝐒 𝐀𝐍 𝐈𝐋𝐋𝐔𝐒𝐈𝐎𝐍 ]_ ✨
 
 </div>
